@@ -15,7 +15,7 @@ deployment on your laptop or workstation.
 |-----|:---|
 | [Travis](https://travis-ci.org) |  [![Build Status][travis-image]][travis-url]  |
 | [Snap](https://snapcraft.io/) |  [![Build Status][snap-image]][snap-url]  |
-| [Codecov](https://codecov.io/) |  [![codecov][codecov-image]][codecov-url] |
+| [Codecov](https://codecov.io/) |  [![Codecov Status][codecov-image]][codecov-url]  |
 
 # Install Multipass
 
